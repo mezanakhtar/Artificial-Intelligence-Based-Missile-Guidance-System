@@ -17,7 +17,7 @@ The project combines:
 - Autonomous target tracking
 - Servo motor-based launcher alignment
 - Kalman Filter for smooth tracking
-- PID controller for precision control
+- Proportional control-based servo alignment
 - Relay-based launch simulation
 
 ---
@@ -33,9 +33,10 @@ The project combines:
 ### Software
 - Python
 - OpenCV
-- YOLO
-- TensorFlow Lite
-- PID Controller
+- Ultralytics YOLO
+- NumPy
+- gpiozero
+- Raspberry Pi GPIO Control
 - Kalman Filter
 
 ---
@@ -79,6 +80,19 @@ pip install -r requirements.txt
 - Detection Accuracy: ~80–90%
 - Tracking Latency: < 200 ms
 - Servo Accuracy: ±2° to ±4°
+
+---
+
+## 🖼 Project Output Preview
+
+### Prototype Setup
+![Prototype](images/Prototype_setup.png)
+
+### Detection Result
+![Detection](images/detection_result.png)
+
+### System Block Diagram
+![Block Diagram](images/block_diagram_architecture.jpeg)
 
 ---
 
