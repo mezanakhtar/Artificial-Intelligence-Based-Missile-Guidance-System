@@ -107,9 +107,9 @@ This project is developed strictly for educational and research purposes only. N
 This project was developed as a Final Year Engineering Project by a team of four members from the Department of Artificial Intelligence & Machine Learning.
 
 ### Team Members
-- Mezan Akhtar
-- LAVAKUSH KUMAR R
-- SYED IRFAN AZHAR QUADRI 
+- MEZAN AKHTAR
+- SYED IRFAN AZHAR QUADRI
+- LAVAKUSH KUMAR R 
 - MOHAMMED ARQUM QAZI
 
 ---
