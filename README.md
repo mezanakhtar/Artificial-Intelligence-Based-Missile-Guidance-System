@@ -53,6 +53,16 @@ Artificial-Intelligence-Based-Missile-Guidance-System/
 └── .gitignore
 ```
 
+## ▶️ Installation
+
+```bash
+git clone https://github.com/mezanakhtar/Artificial-Intelligence-Based-Missile-Guidance-System.git
+
+cd Artificial-Intelligence-Based-Missile-Guidance-System
+
+pip install -r requirements.txt
+```
+
 ---
 
 ## ⚙️ Working Flow
